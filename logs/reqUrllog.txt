@@ -1,0 +1,7 @@
+5/31/2022, 6:18:29 PM Request URL: ./views/index.html  *  INFO  *  the home page was requested
+5/31/2022, 6:18:29 PM Request URL: ./views/blank.html  *  ALERT  *  the page requested had no content
+5/31/2022, 6:18:29 PM Request URL: ./views/coffee.html  *  INFO  *  there was a request to make some coffee
+5/31/2022, 6:18:29 PM Request URL: ./views/index.html  *  INFO  *  the home page was requested
+5/31/2022, 6:33:05 PM Request URL: ./views/about.html  *  INFO  *  the about page was requested
+5/31/2022, 6:36:34 PM Request URL: ./views/index.html  *  INFO  *  the home page was requested
+5/31/2022, 6:36:34 PM Request URL: ./views/404.html  *  ERROR  *  the page requested was not found

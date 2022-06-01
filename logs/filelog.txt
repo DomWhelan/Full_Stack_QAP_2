@@ -1,0 +1,8 @@
+5/31/2022, 6:18:29 PM File read: ./views/index.html SUCCESS
+5/31/2022, 6:18:29 PM File read: ./views/blank.html SUCCESS
+5/31/2022, 6:18:29 PM File read: ./views/coffee.html SUCCESS
+5/31/2022, 6:18:29 PM File read: ./views/index.html SUCCESS
+5/31/2022, 6:33:05 PM File read: ./views/about.html SUCCESS
+5/31/2022, 6:36:34 PM File read: ./views/index.html SUCCESS
+5/31/2022, 6:36:34 PM File read: /jsdfdb FAILED
+5/31/2022, 6:36:34 PM File read: ./views/404.html SUCCESS
